@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+#card{
+	background-color:ghostwhite;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	width:250px;
+	padding:20px;
+	text-align:center;
+	font-weight:900;
+}
+
+img{
+	display:flex;
+	justify-content:center;
+	align-content:center;
+	width:97%;
+	padding:1%;
+	margin:1%;	
+}
+
+#btn{
+	background-color:red;
+/* 	width:fit-content; */
+	color:white;
+	padding:10px;
+	text-align:center;
+	margin:10px;
+	border-radius:10px;
+}
